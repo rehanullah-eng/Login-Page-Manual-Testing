@@ -1,0 +1,12 @@
+QA PROJECT QUICK START
+
+[ ] Choose a demo application you are allowed to test.
+[ ] Record URL, browser, operating system and test date in README.md.
+[ ] Review the test scenarios and test cases.
+[ ] Execute each test case yourself.
+[ ] Set status to Pass, Fail or Blocked based on observed behavior.
+[ ] Record actual results; do not invent results.
+[ ] Create a bug report only for a reproducible difference from expected behavior.
+[ ] Save relevant screenshots in Screenshots/.
+[ ] Replace [Your Name] and other placeholders.
+[ ] Push the completed folder to a public GitHub repository.
